@@ -1,0 +1,45 @@
+Requirements in Assignments:
+ # name: fy
+channels:
+  - defaults #
+dependencies:
+  - python=3.7
+  - tensorflow-gpu
+  - pillow 
+  - scikit-learn
+  - pylint
+  - black
+
+Google Colab - For GPU's, TPU's
+YOLOv3
+Facenet
+numpy
+
+opencv-python
+opencv-contrib-python
+
+Hub
+pytorch
+pip:
+numpy=1.19.5
+dlib=19.22.0
+scipy=1.6.3
+keras=2.4.3
+
+opencv-python=4.5.2.52
+h5py=3.1.0
+imutils=0.5.4
+tensorflow-gpu=1.8
+tensorflow=2.5.0
+tensorflow-gpu>=2.4.0
+
+
+
+
+
+
+open
+h5py
+matplotlib
+requests
+psutil
